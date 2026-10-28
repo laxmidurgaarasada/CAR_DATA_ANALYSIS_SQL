@@ -55,7 +55,7 @@ select * from cars;
 -- Create a Stored Procedure
 -- Create a Function
 -- Create a Trigger
--- Write the Project Conclusion
+
 -- STEP 1: Create Database
 
 -- Part 1: Data Cleaning
@@ -122,8 +122,8 @@ WHERE Make IS NULL
 OR Model IS NULL
 OR Engine_HP IS NULL;
 
--- Part 2: 35 SQL Analysis Queries
--- display all records
+-- Part 2 sql analysis queries
+
 SELECT * FROM Cars;
 
 -- count total no cars
